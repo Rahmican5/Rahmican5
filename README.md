@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Rahmican5&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=🎮%20Oyun%20Geliştiricisi%20·%20📱%20TikTok%20Yayıncısı&descAlignY=62&descSize=20&stroke=a371f7&strokeWidth=2" width="100%" />
+<img src="rahmican5-banner.png" width="100%" />
 
 </div>
 
